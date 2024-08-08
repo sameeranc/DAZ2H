@@ -1,0 +1,201 @@
+Id,Division,Contact,Details_OtherContact,Value_Millions,Size,PricePerPerch,TownDistMetres,BusHaltDistMetres,Water & Electricity Availability,Water & Electricity Availability(Sp),NeighbouringLands,Level,NearbyLocations,Parks,Schools,Temples,Churches,Mosques,Kovils,ShoppingCenters,Other,OtherDescribe,AdditionalResource,ResourcesDescribe,Resource_Valuation,Resource_Valuation(Sp),LandUse,Describe
+1,Moratuwa,Telephone, , ,13.2,0.99,560,452,Both,2,1,Flat,2,0,0,0,1,0,0,1,0, ,None, ,No Resources,0,Residential, 
+2,Moratuwa,Telephone, , ,63,4.5,800,410,Both,2,0,Flat,4,0,1,1,1,0,0,0,1,Egoda Uyana Station,Building,Old Fashioned House(1)  & Furniture,150-200,4,Commercial & Residential,Restaurant or residence
+3,Moratuwa,Telephone, , ,8,1,1000,500,Both,2,1,Flat,3,0,1,1,1,0,0,0,0, ,None, ,No Resources,0,Commercial & Residential, 
+4,Dehiwala,Other,simpleproperty.lk,105,29,3.620689,263,243,Both,2,0,Non-Flat,2,0,0,0,0,0,0,1,1,Dehiwala Station,Building,Old House(1),0-50,1,Residential,Sold at land value
+5,Dehiwala,Telephone, , ,41.31,2.9,50,180,Both,2,0,Flat,2,0,0,0,0,0,0,1,1,Hospital,Building,House(1),0-50,1,Commercial & Residential,Nearby Hospital
+6,Dehiwala,Other,Magazine(Direct),140.8,35.2,4,500,400,Both,2,0,Flat,2,0,0,0,0,0,0,1,1,Kohuwala Police Station,None, ,No Resources,0,Residential,Close to Nugegoda & Kohuwala
+7,Dehiwala,Other,Magazine(Direct), ,12,2.6,1100,650,Both,2,0,Flat,1,0,1,0,0,0,0,0,0, ,None, ,No Resources,0,Commercial & Residential, 
+8,Dehiwala,Telephone, ,60,11.5,5.2,800,80,Both,2,0,Flat,4,0,1,0,0,0,0,1,2,Kalubowila hospital & Police Station,Building,House(2),0-50,1,Residential,Residential Area
+9,Dehiwala,Telephone, ,24,10,2.4,1600,1100,Both,2,0,Flat,1,0,0,0,0,0,0,1,0, ,Building,House(1),0-50,1,Residential,Residential Area
+10,Dehiwala,Telephone, ,29.95,5.75,5.208695,350,100,Both,2,0,Flat,2,0,1,0,0,0,0,1,0, ,Building,House(2),0-50,1,Residential,Two floors with 2 units
+11,Dehiwala,Telephone, ,130,15.5,8.387096,180,20,Both,2,0,Flat,5,0,1,1,0,0,0,1,2,"Nugegoda Station, Kalubowila Police Station",Building,House(2),50-100,2,Commercial & Residential,Office or Restaurant
+12,Dehiwala,Telephone, ,47.5,14.4,3.2986,650,150,Both,2,0,Flat,3,0,1,0,0,0,0,1,1,Dehiwala Station,None, ,No Resources,0,Commercial,Sheet roof garage
+13,Ratmalana,Telephone, , ,7,1.3,610,550,Both,2,3,Flat,2,0,0,1,0,0,0,1,0, ,None, ,No Resources,0,Residential, 
+14,Ratmalana,Telephone, ,30,10.5,2.8571,600,500,Both,2,0,Flat,3,0,0,1,1,0,0,1,0, ,Building,House(2),0-50,1,Residential,House with parking space
+15,Ratmalana,Telephone, , ,20,1.6,350,400,Both,2,0,Flat,2,0,0,0,1,0,0,1,0, ,None, ,No Resources,0,Residential,Acces to aththdiya & maliban junctions
+16,Ratmalana,Telephone, , ,31,1.3,700,400,Both,2,0,Flat,0,0,0,0,0,0,0,0,0, ,Building,House(1),0-50,1,Residential,Urgent as migrating
+17,Ratmalana,Telephone, , ,16.5,1.7,650,300,Both,2,0,Flat,3,0,1,1,0,0,0,1,0, ,None, ,No Resources,0,Commercial & Residential,Can be used as showroom
+18,Ratmalana,Telephone, , ,9.1,2.3,0,10,Both,2,0,Flat,3,0,0,1,1,0,0,1,0, ,None, ,No Resources,0,Commercial & Residential,To build a shop or complex
+19,Colombo,Telephone, , ,19,9,250,250,Both,2,0,Flat,4,1,1,0,0,0,0,1,1,National Hospital,None, ,No Resources,0,Commercial,"Medical equp. showroom, office, restaurant etc.."
+20,Colombo,Telephone, , ,50,13,900,400,Both,2,1,Flat,2,0,1,0,0,0,0,0,1,Dematagoda Station,None,Old shed(Unused),No Resources,0,Commercial & Residential,Can use as a store room
+21,Colombo,Telephone, , ,27,7.3,500,500,Both,2,0,Flat,5,1,1,1,1,0,0,0,1,National Hospital,None, ,No Resources,0,Commercial & Residential,Store room or Office
+22,Colombo,Telephone, , ,10,15,250,25,Both,2,0,Flat,3,1,1,0,0,0,0,0,1,General Hospital,Building,Shed,No Resources,0,Commercial & Industrial,used for retaraurant
+23,Colombo,Telephone, ,7.5,1.17539,6.38,190,160,Both,2,0,Flat,6,1,2,1,0,0,0,1,1,Maradana Police Station,Building,Comm Shop in a complex,No Resources,0,Commercial,For a small Shop
+24,Colombo,Telephone, ,145,3,48.33,310,61,Both,2,0,Flat,3,0,1,1,0,0,0,0,1,Dematagoda Station,Building,Building(4)-Both priced together,No Resources,0,Commercial,Each floor can be rented or can use as an office
+25,Colombo,Telephone, , ,72.48,14.5,300,210,Both,2,0,Flat,6,1,1,1,1,0,0,1,1,Nawaloka Hospital,None, ,No Resources,0,Commercial & Residential,Office or residence
+26,Colombo,Telephone, , ,10.5,2.2,320,50,Both,2,0,Flat,6,1,1,0,1,1,1,0,1,Pearl Hospital,Building,Small Building(sold at land value),No Resources,0,Residential,Can build an office after some repairs
+27,Colombo,Telephone, , ,7,1.65,700,450,Both,2,0,Flat,3,0,1,0,0,1,0,0,1,Grandpass Police Station,None, ,No Resources,0,Commercial & Residential,Store house or house
+28,Colombo,Telephone, , ,8.1,4,250,200,Both,2,0,Flat,5,0,1,0,1,0,1,1,1,Aquinas,None, ,No Resources,0,Commercial & Residential,For flat or 3 storey House
+29,Colombo,Telephone, , ,37.5,7.5,1000,450,Both,2,0,Flat,3,0,1,0,0,0,0,1,1,Keselwaththe Polie Station,None, ,No Resources,0,Commercial,Sold at urgency. Suitalbe for store keeping
+30,Colombo,Telephone, , ,47,6.7,20,20,Both,2,0,Flat,6,0,1,1,1,0,0,1,2,Police & Railway Stations,None, ,No Resources,0,Commercial & Residential,Ideal fora building complex
+31,Colombo,Telephone, , ,10,2.8,250,50,Both,2,0,Flat,4,1,0,0,1,0,0,0,2,"Bluemendhal Police Station, Pearl Hospital",None, ,No Resources,0,Commercial,4 km to Galle Face
+32,Colombo,Telephone, ,38,13,2.923076,400,50,Both,2,0,Flat,3,0,1,1,0,0,0,0,1,Sugathadasa Stadium,Building,Building(2),0-50,1,Commercial & Residential,Office after few modifications
+33,Colombo,Telephone, , ,22,8.5,600,610,Both,2,0,Flat,2,0,1,0,0,0,0,1,0, ,Building,Building(1),50-100,2,Commercial & Residential,Can modifiy to an office
+34,Colombo,Telephone, ,36,11.37,3.166220913,350,100,Both,2,0,Flat,4,1,1,1,0,0,0,0,1,Dematagoda Railway Station,Building,Building(1),0-50,1,Residential,House with access to main Rd
+35,Colombo,Telephone, ,420,30,14,250,110,Both,2,0,Flat,4,1,1,0,0,0,0,1,1,National Hospital,None, ,No Resources,0,Commercial & Residential,Acess to main commercial plces and schools
+36,Colombo,Telephone, , ,16.4,16,600,100,Both,2,0,Flat,4,0,0,1,1,0,0,1,1,Durdans Hospital,None, ,No Resources,0,Commercial & Residential,Ideal for commercial place
+37,Colombo,Telephone, , ,27,20,300,100,Both,2,0,Flat,3,0,0,1,1,0,0,1,0, ,None, ,No Resources,0,Commercial & Residential, 
+38,Colombo,Telephone, , ,25,14,750,300,Both,2,1,Flat,5,0,3,0,0,0,0,1,1,Durdans Hospital,None, ,No Resources,0,Commercial & Residential,Suitable for an outlet store
+39,Colombo,Telephone, , ,8,18.5,630,120,Both,2,0,Flat,3,0,0,0,1,0,0,1,1,Durdans Hospital,None, ,No Resources,0,Commercial & Residential,Commercial purposes
+40,Colombo,Telephone, , ,24.5,15,80,60,Both,2,0,Flat,7,1,3,1,1,0,0,1,0, ,None, ,No Resources,0,Commercial & Residential,Ideal for commercial building
+41,Colombo,Telephone, , ,23,18,300,80,Both,2,0,Flat,6,1,1,1,0,0,1,1,1,Nawaloka Hospital,None,Building(1),0-50,1,Commercial & Residential,Livable House
+42,Colombo,Telephone, , ,31.75,4,1200,1100,Both,2,0,Flat,4,1,0,1,1,0,0,0,1,Krulapana Railway Station,None, ,No Resources,0,Residential,more suitable who has Private Transport
+43,Colombo,Telephone, , ,30,18,210,90,Both,2,0,Flat,3,0,0,0,1,0,0,1,1,Kollupitiya Railway,None, ,No Resources,0,Commercial,"Apartment, Hotel, Guest House"
+44,Colombo,Telephone, ,340,17,20,300,210,Both,2,0,Flat,3,0,0,0,0,1,0,1,1,Durdans Hospital,Building,Old Building(1),No Resources,0,Commercial & Residential,"Hotel, Guest House"
+45,Colombo,Telephone, ,165,8,20.625,500,40,Both,2,0,Flat,4,0,2,0,0,0,0,1,1,Durdans Hospital,Building,Building(2),0-50,1,Commercial & Residential,One floor can be rented while living
+46,Colombo,Telephone, ,37.5,11.5,3.26086,600,100,Both,2,0,Flat,8,0,3,0,1,1,1,0,2,"Pearl Hosptal,Modara Police Station",Building,Building(1),0-50,1,Commercial & Residential,Office or Residence
+47,Colombo,Telephone, ,57,5.7,10,800,200,Both,2,0,Flat,8,1,1,0,1,1,1,1,2,"Kompachawediya Railway Station, Ratnam Hospital",Building,Building(3),0-50,1,Commercial,Commercial building
+48,Colombo,Telephone, ,90,7.92,11.363,550,60,Both,2,0,Flat,4,0,0,1,1,1,1,0,0, ,Building,Building(3),50-100,2,Commercial,Business/Shop
+49,Colombo,Telephone, ,70,10,7,350,10,Both,2,0,Flat,6,0,1,1,0,1,0,1,2,"Dematagoda Railway, Dematagoda Police Station",Building,Building(3),0-50,1,Commercial,Office wear
+50,Colombo,Telephone, , ,35,2.9,700,500,Both,2,0,Flat,4,0,1,0,1,1,0,0,1,Grandpass Polce Station,None, ,No Resources,0,Commercial & Residential,"Warehouse, Storage"
+51,Colombo,Telephone, ,325,69.788,4.65696,0,5,Both,2,0,Flat,5,0,1,1,1,0,0,1,1,Medi House,Building,Building(8),50-100,2,Commercial,Office Complex/Showroom
+52,Colombo,Telephone, ,10,3.3,3.03,370,60,Both,2,0,Non-Flat,10,1,2,1,1,1,1,1,2,Modara Police Station/Pearl Hospital,Building,Building(1),0-50,1,Residential,Residential Area
+53,Colombo,Telephone, ,75,15,5,660,600,Both,2,0,Flat,4,0,0,1,1,0,0,1,1,Narahenpita Railway Station,Building,Building(1),0-50,1,Residential,Residential Area
+54,Colombo,Telephone, ,130,10.9,11.926,800,650,Both,2,0,Flat,7,1,2,1,0,1,1,0,1,Royal Hospital,Building,Building(2),0-50,1,Commercial & Residential,Restaurent/Resident with 2 anexxes rent
+55,Colombo,Telephone, ,92.7,12,7.725,730,402,Both,2,0,Flat,6,1,1,1,0,0,0,1,2,"Western Hospital, Cotta Railway Station",Building,Building(2),0-50,1,Residential,Residence while renting one floor
+56,Colombo,Telephone, , ,22,15,450,100,Both,2,0,Flat,5,0,1,1,1,0,0,1,1,Bambalapitiya Police Station,None, ,No Resources,0,Commercial & Residential,Office/Residential
+57,Colombo,Telephone, , ,13.7,15,800,130,Both,2,0,Flat,6,0,2,0,1,0,0,2,1,Durdans Hospital,None, ,No Resources,0,Commercial & Residential,Flat/Office/Residential Home
+58,Colombo,Telephone, , ,7.5,14.5,800,700,Both,2,0,Flat,2,0,0,0,0,0,0,1,1,BIMCH,None, ,No Resources,0,Residential,Residential Area
+59,Colombo,Telephone, , ,16.5,12,800,650,Both,2,0,Flat,4,0,1,0,0,1,0,1,1,BMICH,Building,Building(2)-Sold at Land Value,No Resources,0,Commercial & Residential,Residential Area/Office
+60,Colombo,Telephone, ,300,16.57,18.105,800,400,Both,2,0,Flat,6,0,1,1,1,1,0,1,1,BMICH,Building,Building(2),50-100,2,Residential,Luxuary house
+61,Colombo,Telephone, ,144.845,23.75,6.1,700,280,Both,2,0,Flat,5,0,0,1,1,1,0,1,1,Kirulapana :Libaray,Building,Building(1),0-50,1,Commercial & Residential,Residential/Apartment/Office
+62,Colombo,Telephone, ,240,16,15,500,100,Both,2,0,Flat,6,1,1,1,0,0,0,1,2,Narahenpita Railway/Lanka Hospital,Building,Building(3),100-150,3,Residential,Luxary Residential House
+63,Colombo,Telephone, , ,15,12,350,60,Both,2,0,Flat,7,0,1,0,1,1,1,1,2,Royal Hospital/Wellawaththe Police Station,Building,Building(1)-Old House,0-50,1,Commercial & Residential,Company/Showroom
+64,Colombo,Telephone, ,150,15,10,480,400,Both,2,0,Flat,4,0,1,1,1,0,0,0,1,Asiri Medical Hospital,Building,Building(3),50-100,2,Residential,Luxary House
+65,Colombo,Telephone, , ,24,14,850,710,Both,2,0,Flat,4,0,2,1,0,0,0,0,1,Joseph Frazer Memorial Hospital,None, ,No Resources,0,Commercial & Residential,Residential/Office
+66,Colombo,Telephone, ,95,12,7.91,100,50,Both,2,0,Flat,8,1,2,1,0,0,0,1,3,Asiri Central Hospital/Maradana Railway & Police Stations,Building,Building(1),0-50,1,Commercial & Residential,"Old House, can be rented to medical student"
+67,Colombo,Telephone, , ,47,6.7,300,5,Both,2,0,Flat,8,1,3,1,0,0,0,1,2,CDEM Hospital/Maradana Hospital,None, ,No Resources,0,Commercial,Shopping Complex/Office
+68,Colombo,Telephone, ,22.5,6,3.75,280,50,Both,2,0,Flat,6,0,1,1,1,0,0,1,2,Medi House/Maligawaththe Police Station,Building,Building(2),0-50,1,Residential,Residential House
+69,Colombo,Telephone, ,44,9.6,4.58,850,400,Both,2,0,Flat,6,1,3,1,0,0,0,1,0, ,Building,Building(1),0-50,1,Residential,House
+70,Colombo,Telephone, ,52,10,5.2,650,3,Both,2,0,Flat,6,1,1,2,0,0,1,0,1,Baseline Railway Station,Building,Building(1),0-50,1,Residential,Residential Area with House
+71,Colombo,Telephone, ,60,8.02,7.5,320,110,Both,2,0,Flat,7,1,3,1,1,0,0,0,1,National Hospital,None, ,No Resources,0,Residential,Residential Area
+72,Colombo,Telephone, , ,10,1.5,700,210,Both,2,3,Non-Flat,6,1,1,0,1,0,1,1,1,Modara Police Statoion,None, ,No Resources,0,Commercial & Residential,Residential or Store House
+73,Colombo,Telephone, , ,39.44,3,600,600,Both,2,0,Flat,5,0,2,0,1,0,0,1,1,Kotahena Police Station,Building,Building(1),0-50,1,Commercial,Storage/Warehose
+74,Colombo,Telephone, , ,168,4,1100,50,Both,2,1,Flat,3,0,2,0,1,0,0,0,0, ,Building,Small warehouse Structure,No Resources,0,Commercial,Warehouse Purpose
+75,Thimbirigasyaya & Kotte,Telephone, , ,10.5,16,900,610,Both,2,0,Flat,3,0,0,1,1,0,0,0,1,Joseph Frazer Hospital,None, ,No Resources,0,Commercial & Residential,Office/Residential Plce
+76,Maharagama,Telephone, , ,20,1.5,1300,710,Both,2,0,Non-Flat,2,0,1,0,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+77,Maharagama,Telephone, , ,7.5,0.55,1500,700,Both,2,0,Non-Flat,2,0,1,0,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+78,Maharagama,Telephone, ,15.5,6.4,2.42,710,500,Both,2,0,Flat,3,0,0,1,0,0,0,1,1,Nawinna Railway Station,Building,Building(2),0-50,1,Residential,Residential Area
+79,Maharagama,Telephone, , ,10,1.25,800,550,Both,2,0,Flat,2,0,0,0,0,0,0,1,1,Nawaloka Hospital,None, ,No Resources,0,Residential,Residential Land
+80,Maharagama,Telephone, , ,6,3,400,30,Both,2,0,Flat,5,1,0,1,1,0,0,1,1,Mirihana Police Staton,Building,Building(2),0-50,1,Residential,Residential Place
+81,Thimbirigasyaya & Kotte,Telephone, , ,8,2,300,300,Both,2,0,Flat,3,0,0,0,1,0,0,2,0, ,None, ,No Resources,0,Residential,Residential Area
+82,Thimbirigasyaya & Kotte,Telephone, , ,14,2.35,700,650,Both,2,0,Flat,5,1,1,1,0,0,0,2,0, ,None, ,No Resources,0,Residential,Residential Land
+83,Thimbirigasyaya & Kotte,Telephone, , ,15,2.5,700,700,Both,2,0,Non-Flat,2,1,0,0,0,0,0,1,0, ,Plants,Small Banana Plant Cultivation,No Resources,0,Commercial & Residential,Residential area/Hotel
+84,Thimbirigasyaya & Kotte,Telephone, , ,8.2,3.6,600,100,Both,2,0,Flat,4,0,1,0,1,0,0,1,1,Golden Key Hospital,None, ,No Resources,0,Residential,Residential Purpose
+85,Thimbirigasyaya & Kotte,Telephone, , ,25.5,4.795,280,150,Both,2,0,Flat,5,1,1,1,0,0,0,1,1,Child Eye Hospital,None, ,No Resources,0,Residential,Residential Area
+86,Thimbirigasyaya & Kotte,Telephone, , ,20,1.8,1300,700,Both,2,0,Flat,2,0,1,0,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+87,Thimbirigasyaya & Kotte,Telephone, , ,11,1.075,550,200,Both,2,0,Flat,4,0,1,1,0,0,0,0,2,Japura Hospital/Madiwela Clinic,None, ,No Resources,0,Residential,Residential Area
+88,Thimbirigasyaya & Kotte,Telephone, , ,10,4.2,800,200,Both,2,0,Flat,5,0,1,1,1,0,0,1,1,Diabetic care & Rehabilitation Center,None, ,No Resources,0,Residential,Residential Area
+89,Thimbirigasyaya & Kotte,Telephone, , ,7.63,4,1400,600,Both,2,1,Flat,4,0,1,1,0,0,0,1,1,Diabetic care & Rehabilitation Center,None, ,No Resources,0,Residential,Residential Area
+90,Thimbirigasyaya & Kotte,Telephone, , ,11,2.3,1100,1000,Both,2,1,Flat,2,1,0,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential (near Duwa Oya)
+91,Maharagama,Telephone, ,73,21.5,3.9953,980,705,Both,2,0,Flat,3,0,0,1,0,0,0,1,1,Mirihana Police Station,Building,Building(2),0-50,1,Residential,Luxury Home
+92,Thimbirigasyaya & Kotte,Telephone, , ,6,4.1,1050,780,Both,2,0,Flat,1,0,0,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Lake View Residential Area
+93,Thimbirigasyaya & Kotte,Telephone, ,68.5,2.5,27.4,210,10,Both,2,0,Flat,6,1,2,1,1,0,0,1,0, ,Building,Building(2),50-100,2,Residential,Luxury Home
+94,Thimbirigasyaya & Kotte,Telephone, , ,10,4,430,310,Both,2,1,Flat,3,1,1,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residence Area
+95,Thimbirigasyaya & Kotte,Telephone, , ,20,3.25,750,300,Both,2,0,Flat,5,0,2,1,1,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+96,Thimbirigasyaya & Kotte,Telephone, ,155,51,3.04,600,600,Both,2,0,Flat,5,1,2,0,1,0,0,1,0, ,Building,Old House,No Resources,0,Residential,Sold at land Value
+97,Thimbirigasyaya & Kotte,Telephone, ,35.2,16,2.2,1000,400,Both,2,0,Flat,1,0,0,1,0,0,0,0,0, ,Building,Old House,0-50,1,Commercial & Residential,Residence/Office
+98,Thimbirigasyaya & Kotte,Telephone, ,43.2,12,3.6,1120,800,Both,2,0,Flat,3,0,1,1,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+99,Thimbirigasyaya & Kotte,Telephone, , ,22,3.7,700,300,Both,2,0,Flat,3,0,1,1,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential area
+100,Thimbirigasyaya & Kotte,Telephone, , ,6.2,1.8,650,300,Both,2,0,Flat,5,0,2,1,1,0,0,1,0, ,None, ,No Resources,0,Residential,Residential
+101,Thimbirigasyaya & Kotte,Telephone, , ,15.5,7,210,250,Both,2,0,Flat,2,0,0,1,0,0,0,1,0, ,None, ,No Resources,0,Commercial & Residential,Office/Rsidence
+102,Thimbirigasyaya & Kotte,Telephone, ,54.5,6,9.08333,580,530,Both,2,0,Non-Flat,1,0,0,1,0,0,0,0,0, ,None, ,No Resources,0,Commercial & Residential,Office/Residential
+103,Thimbirigasyaya & Kotte,Telephone, ,80,20,4,850,390,Both,2,0,Flat,5,1,1,1,0,0,0,1,1,Child Eye Hospital,None, ,No Resources,0,Residential,Residential
+104,Thimbirigasyaya & Kotte,Telephone, ,27.5,8.25,3.33,445,103,Both,2,0,Flat,5,1,1,1,0,0,0,1,1,Madiwela Clinic,Building,Building(2),0-50,1,Residential,10 yr old house
+105,Thimbirigasyaya & Kotte,Telephone, ,41,6,6.833,1250,405,Both,2,0,Flat,4,0,1,2,0,0,0,1,0, ,Building,Buillding(3),0-50,1,Residential,With servant and office rooms
+106,Thimbirigasyaya & Kotte,Telephone, , ,14,2.4,780,430,Both,2,0,Flat,4,1,1,1,0,0,0,1,0, ,None, ,No Resources,0,Commercial & Residential,Office/Residential
+107,Thimbirigasyaya & Kotte,Telephone, , ,30,3.2,150,100,Both,2,0,Flat,3,0,0,0,1,0,0,1,1,Green Cross Hospital,None, ,No Resources,0,Commercial & Residential,6 Floor Planing Permission land
+108,Thimbirigasyaya & Kotte,Telephone, , ,18.82,2,600,600,Both,2,0,Flat,3,0,0,0,1,0,0,1,1,Green Cross Hospital,None, ,No Resources,0,Residential,Residential Area
+109,Thimbirigasyaya & Kotte,Telephone, , ,15,2.6,800,300,Both,2,1,Non-Flat,4,1,1,0,0,0,0,1,1, ,None, ,No Resources,0,Commercial & Residential,Residential/Office Space
+110,Thimbirigasyaya & Kotte,Telephone, , ,11,2.3,1800,900,Both,2,1,Flat,2,1,0,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Area
+111,Thimbirigasyaya & Kotte,Telephone, , ,12.5,3.8,600,55,Both,2,0,Flat,2,0,0,1,0,0,0,1,0, ,Building,Old House,0-50,1,Commercial & Residential,Modify to Residence/ Office
+112,Thimbirigasyaya & Kotte,Telephone, ,60,12.15,4.9382,500,400,Both,2,0,Flat,7,1,1,2,0,0,0,1,2,"Western, Golden eye & ENT Hospitals",Building,New renovated House,0-50,1,Residential,Residential
+113,Thimbirigasyaya & Kotte,Telephone, , ,14,2.5,1100,615,Both,2,0,Flat,2,0,0,1,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential area
+114,Thimbirigasyaya & Kotte,Telephone, ,45,9,5,1600,550,Both,2,0,Flat,4,0,0,1,0,0,0,1,2,Udahamulla Station/ Clinic,Building,Building(2),0-50,1,Residential,Luxary House
+115,Thimbirigasyaya & Kotte,Telephone, ,12.8,11,1.163,700,500,Both,2,0,Flat,2,1,0,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Area
+116,Thimbirigasyaya & Kotte,Telephone, , ,8,1.5,1000,1000,Both,2,2,Flat,4,1,1,1,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+117,Thimbirigasyaya & Kotte,Telephone, , ,6.5,3.75,850,490,Both,2,0,Flat,1,0,0,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Area
+118,Thimbirigasyaya & Kotte,Telephone, , ,6.2,1.75,680,500,Both,2,2,Flat,5,0,1,1,1,0,0,1,1,Divisional Hospital,None, ,No Resources,0,Residential,Residential Area
+119,Thimbirigasyaya & Kotte,Telephone, , ,20,4,830,480,Both,2,0,Flat,3,0,1,1,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+120,Thimbirigasyaya & Kotte,Telephone, , ,10,4.25,700,100,Both,2,0,Flat,6,0,1,1,1,0,0,1,2,Rhab Center/Asiri Surgical,None, ,No Resources,0,Residential,Residential Land
+121,Kasbawa,Telephone, , ,10,0.75,1800,200,Both,2,2,Flat,0,0,0,0,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Area
+122,Kasbawa,Telephone, ,2.5,10.3,0.242718447,1300,800,Both,2,0,Flat,3,0,1,2,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential
+123,Kasbawa,Telephone, , ,7,0.45,700,700,Both,2,0,Non-Flat,2,0,0,1,1,0,0,0,0, ,None, ,No Resources,0,Residential,Residential
+124,Kasbawa,Telephone, , ,13,0.175,600,480,Both,2,0,Flat,4,0,1,1,0,0,0,1,1,Medi Help,None, ,No Resources,0,Residential,Residential Area
+125,Kasbawa,Telephone, , ,15,0.2,1800,520,Both,2,0,Flat,1,0,0,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Area
+126,Kaduwela,Telephone, , ,10,0.75,80,80,Both,2,1,Flat,3,0,0,2,0,0,0,1,0, ,None, ,No Resources,0,Commercial & Residential,Residential/Boarding Scheme/Restaurent
+127,Kaduwela,Telephone, , ,20,0.8,900,480,Both,2,0,Non-Flat,4,0,2,1,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential area
+128,Kaduwela,Telephone, , ,13.87,1.5,800,480,Both,2,0,Flat,4,1,0,1,0,0,0,1,1,Santa Dora Hospital,None, ,No Resources,0,Residential,Residential Area
+129,Kaduwela,Telephone, , ,9,2,900,900,Both,2,0,Non-Flat,2,0,0,0,0,0,0,1,1,Divisional Hospital,None, ,No Resources,0,Residential,Residential Area
+130,Kaduwela,Telephone, ,43.8,13.68,3.2,830,460,Both,2,0,Flat,6,1,1,2,0,0,0,1,1,Santa Dorsa Hospital,None, ,No Resources,0,Residential,Residential Area
+131,Kaduwela,Telephone, , ,15.5,3.6,860,500,Both,2,0,Flat,6,1,1,2,0,0,0,1,1,Santa Dorsa Hospital,None, ,No Resources,0,Residential,Residential land
+132,Homagama,Telephone, ,30,63,0.47619,980,470,Both,2,0,Flat,5,0,2,1,0,0,0,0,2,Homagama Hospital and Rohala Railway Station,None, ,No Resources,0,Commercial & Residential,Factory/Warehouse/Guest House/ Residence
+133,Homagama,Telephone, , ,8.36,0.89,850,500,Both,2,0,Flat,4,1,0,0,0,0,0,1,2,Base Hospital/ Homagama Station,None, ,No Resources,0,Residential,Residential Area
+134,Homagama,Telephone, , ,80,0.15,1120,5,Electricity,1,1,Flat,2,0,1,1,0,0,0,0,0, ,None, ,No Resources,0,Commercial & Residential,Resident/Hotel/Company
+135,Homagama,Telephone, , ,11,0.4,1050,250,Both,2,0,Non-Flat,5,1,1,1,0,0,0,0,2,Base Hospital/Homagama Rohala Station,None, ,No Resources,0,Residential,Residential Area
+136,Homagama,Telephone, , ,7.89,0.3,100,100,Electricity,1,0,Flat,6,0,1,1,2,0,0,1,1,Meegoda Police Station,None, ,No Resources,0,Residential,Residential Land
+137,Homagama,Telephone, ,9.5,12,0.7916666,900,120,Electricity,1,0,Flat,4,1,0,2,1,0,0,0,0, ,Building,Building(1),0-50,1,Commercial & Residential,Residential/Rented for NSBM Students
+138,Homagama,Telephone, ,12,18,0.666666,1200,990,Electricity,1,0,Flat,3,0,1,1,0,0,0,0,1,Homagama Railway Station,Building,Building(2),0-50,1,Residential,Partly Built House
+139,Homagama,Telephone, ,2.8,8,0.35,1100,705,Both,2,0,Flat,3,0,0,1,1,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+140,Homagama,Telephone, , ,6.5,0.385,370,15,Both,2,2,Flat,6,1,2,2,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+141,Homagama,Telephone, , ,18,0.25,1100,500,Both,2,0,Flat,3,1,0,2,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Area
+142,Homagama,Telephone, , ,11.67,0.37,985,400,Electricity,1,0,Flat,4,0,1,1,1,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Area
+143,Homagama,Telephone, , ,15,1,115,5,Both,2,0,Flat,4,0,1,1,0,0,0,0,2,Hospital/ Rohala Railway Station,None, ,No Resources,0,Commercial & Residential,Residentila/for a shop
+144,Homagama,Telephone, , ,11.2,0.215,1350,100,Both,2,0,Flat,1,0,0,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Area
+145,Kolonnawa,Telephone, , ,50,0.9,950,380,Both,2,0,Flat,7,0,2,1,0,1,0,2,1,Kolonnawa Mathru Niwasaya (Hospital),None, ,No Resources,0,Commercial & Residential,Residential/Commercial
+146,Kolonnawa,Telephone, ,45,12.5,3.6,760,370,Both,2,0,Flat,3,0,0,1,0,0,0,1,1,Base Hospital,Building,Building(3),0-50,1,Residential,Newly Built House
+147,Kolonnawa,Telephone, , ,7.28,0.66,270,270,Both,2,0,Flat,3,0,0,1,0,0,0,1,1,Mulleriyawa Nursing Home,None, ,No Resources,0,Residential,Residential Area
+148,Kolonnawa,Telephone, , ,7,0.45,1280,1100,Both,2,2,Flat,1,0,1,0,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Area
+149,Kolonnawa,Telephone, , ,7.25,0.525,970,650,Both,2,0,Flat,5,0,1,1,1,0,0,1,1,Kotikawaththe Medical Center,None, ,No Resources,0,Residential,Residential Area
+150,Kolonnawa,Telephone, ,15,9.5,1.57894,900,600,Both,2,0,Flat,3,1,0,0,1,1,0,0,0, ,Building,Building(2),0-50,1,Residential,Residential Land
+151,Kolonnawa,Telephone, ,3.75,7,0.535714,700,40,Both,2,0,Non-Flat,1,0,0,0,0,0,0,0,1,IDH Hospital,None, ,No Resources,0,Residential,Residential Land
+152,Kolonnawa,Telephone, ,4.7,6,0.783333,1000,580,Both,2,0,Flat,1,0,0,0,0,0,0,1,0, ,Building,Building(1),0-50,1,Residential,Partly Built House
+153,Kolonnawa,Telephone, , ,20,0.65,500,500,Both,2,0,Flat,5,0,1,1,0,0,0,2,1, ,None, ,No Resources,0,Commercial & Residential,Store Room/House
+154,Kolonnawa,Telephone, , ,7,0.475,605,605,Both,2,1,Flat,5,0,0,3,0,0,0,1,1,Base Hospital,None, ,No Resources,0,Residential,Residential Land
+155,Kolonnawa,Telephone, , ,11,0.325,500,500,Both,2,0,Flat,2,0,0,2,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+156,Padukka & Hanwella,Telephone, , ,75,0.115,1400,70,Electricity,1,0,Flat,3,0,1,1,0,0,0,0,1,Angampitiya Railway Station,None, ,No Resources,0,Residential,Residential/Shop
+157,Padukka & Hanwella,Telephone, , ,24,0.4,1000,400,Electricity,1,0,Flat,5,0,1,0,1,0,0,0,3,"Padukka Police, Railway Stations/ Hospital",Plants,Coconut Land,No Resources,0,Commercial & Residential,Cultivate Coconuts/Residential
+158,Padukka & Hanwella,Telephone, , ,400,0.07,1300,1200,Electricity,1,0,Non-Flat,1,0,0,1,0,0,0,0,0, ,Plants,Coconut Plants,No Resources,0,Commercial & Residential,Tourist Hotel/Guest House
+159,Padukka & Hanwella,Telephone, , ,14,0.11,1700,1300,Electricity,1,0,Flat,1,0,1,0,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+160,Padukka & Hanwella,Telephone, , ,10,0.155,1200,800,Electricity,1,0,Flat,5,0,0,2,1,0,1,0,1,Mawathagama Hospital,None, ,No Resources,0,Residential,Residential Land
+161,Padukka & Hanwella,Telephone, , ,1280,0.01,1600,500,Electricity,1,0,Non-Flat,2,0,1,1,0,0,0,0,0, ,Plants,Rubber Plantation,No Resources,0,Commercial,Rubber Cultivation
+162,Padukka & Hanwella,Telephone, , ,15.75,0.09,1100,1300,Both,2,0,Non-Flat,0,0,0,0,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential land
+163,Padukka & Hanwella,Telephone, , ,30,0.067,2100,1200,Both,2,0,Flat,1,0,0,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+164,Padukka & Hanwella,Telephone, ,1.05,15,0.07,1900,3500,Both,2,0,Flat,2,0,0,1,0,0,0,0,1,Gammana Railway Station,None, ,No Resources,0,Residential,Residential Land
+165,Padukka & Hanwella,Telephone, ,8.5,172,0.049418,1400,1400,Electricity,1,0,Flat,1,0,0,1,0,0,0,0,0, ,None, ,No Resources,0,Commercial & Residential,Residential/Hotel/Resort
+166,Padukka & Hanwella,Telephone, , ,10,0.02,1430,1050,Both,2,0,Flat,0,0,0,0,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+167,Padukka & Hanwella,Telephone, , ,3200,0.0937,1200,500,Electricity,1,0,Non-Flat,0,0,0,0,0,0,0,0,0, ,More than one,Granite/Rubber Cultivation,No Resources,0,Commercial,Hotel/Rubber Estate
+168,Padukka & Hanwella,Telephone, , ,11,0.25,1970,1500,Both,2,0,Flat,0,0,0,0,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+169,Padukka & Hanwella,Telephone, , ,108,0.09,1600,1150,Electricity,1,0,Flat,2,0,0,1,0,0,0,0,1,Uggala Sub Railway Station,None, ,No Resources,0,Commercial & Residential,Hotel/Boutique/Residential
+170,Padukka & Hanwella,Telephone, , ,10,0.09,500,500,Both,2,3,Flat,1,0,1,0,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+171,Padukka & Hanwella,Telephone, ,2.5,24,0.104166,1620,1000,Electricity,1,0,Flat,2,0,2,0,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+172,Padukka & Hanwella,Telephone, , ,15,0.0765,1200,810,Both,2,2,Flat,2,0,0,2,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+173,Padukka & Hanwella,Telephone, ,3.7,15,0.246666,400,300,Both,2,0,Flat,8,0,1,2,1,0,0,1,3,Padukka Station and Hospital/Jeewaka Hospital,None, ,No Resources,0,Residential,Residential Land
+174,Padukka & Hanwella,Telephone, ,4.5,40,0.45,1200,510,Both,2,0,Non-Flat,0,0,0,0,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+175,Padukka & Hanwella,Telephone, , ,202.6,0.65,400,0,Both,2,0,Flat,9,0,3,1,1,1,0,1,2,Padukka Station/Divisional Hospital,None, ,No Resources,0,Commercial & Residential,Situation in main rd so better for commercial
+176,Padukka & Hanwella,Telephone, , ,10,0.11,1200,700,Electricity,1,3,Flat,1,0,0,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+177,Padukka & Hanwella,Telephone, , ,15,1.75,500,110,Both,2,0,Flat,5,0,1,1,1,0,0,0,2,Railway Station/Divisional Hospital,None, ,No Resources,0,Residential,Residential Land
+178,Padukka & Hanwella,Telephone, ,7.05,47,0.15,500,0,Electricity,1,0,Flat,5,0,1,3,0,0,0,1,0, ,None, ,No Resources,0,Commercial & Residential,Shop/Grocery/Residential
+179,Padukka & Hanwella,Telephone, , ,12,0.0825,800,500,Electricity,1,0,Non-Flat,4,0,0,2,0,0,1,0,1, ,None, ,No Resources,0,Residential,Residential Land
+180,Padukka & Hanwella,Telephone, ,21.25,170,0.125,1200,500,Electricity,1,0,Non-Flat,4,0,1,1,0,0,0,0,2,Gamma Halt/Morakale Railways,Other,Water Stream(adds Beauty),No Resources,0,Commercial & Residential,Residential/Holiday Home/Hotel
+181,Padukka & Hanwella,Telephone, ,0.7,17,0.041176,2100,2100,Both,2,0,Non-Flat,2,0,1,1,0,0,0,0,0, ,None, ,No Resources,0,Commercial & Residential,Residential/Commercial
+182,Padukka & Hanwella,Telephone, ,6.75,135,0.05,4000,600,Both,2,0,Non-Flat,1,0,0,1,0,0,0,0,0, ,None, ,No Resources,0,Commercial & Residential,Forest like land
+183,Padukka & Hanwella,Telephone, ,18,800,0.0225,1000,1000,Electricity,1,0,Non-Flat,0,0,0,0,0,0,0,0,0, ,Plants,Tea Cultivated land,No Resources,0,Commercial,Crops cultivated land
+184,Padukka & Hanwella,Telephone, , ,27.75,0.75,1200,120,Both,2,0,Flat,1,0,0,0,0,0,0,0,1,Puwakpitiya Station,None, ,No Resources,0,Commercial & Residential,Residential/shop/Commercial/Warehouse
+185,Padukka & Hanwella,Telephone, ,2.6,120,0.216666,850,500,Both,2,0,Flat,3,0,2,1,0,0,0,0,0, ,None, ,No Resources,0,Commercial & Residential,Residential/Small Boutique
+186,Padukka & Hanwella,Telephone, , ,10,0.09,1100,100,Both,2,3,Flat,3,0,2,1,0,0,0,0,0, ,None, ,No Resources,0,Residential,Residential Land
+187,Padukka & Hanwella,Telephone, ,7,720,0.009722222,1900,1900,None,0,0,Non-Flat,1,0,0,1,0,0,0,0,0, ,Plants,Rubber Plantation,No Resources,0,Commercial,Rubber Cultivation/Hotel
+188,Padukka & Hanwella,Telephone, ,12,1920,0.00625,1600,1600,None,0,0,Non-Flat,1,0,0,1,0,0,0,0,0, ,Plants,Rubber in 3 acres,No Resources,0,Commercial & Residential,Spring water bottle project/Ware House/Soli Excavation etc.
+189,Padukka & Hanwella,Telephone, ,20,422,0.04739,1000,1200,Electricity,1,0,Non-Flat,2,0,1,1,0,0,0,0,0, ,More than one,Small house/Rubber/Coconut,No Resources,0,Commercial,Villa/Spring water/Cultivation/Residence
+190,Padukka & Hanwella,Telephone, , ,200,0.1,1000,1000,Electricity,1,0,Flat,0,0,0,0,0,0,0,0,0, ,Plants,40 Rubber Trees,No Resources,0,Commercial & Residential,Rubber Cultivation/Residence
+191,Padukka & Hanwella,Telephone, ,4,109,0.03666,1050,600,Electricity,1,0,Non-Flat,4,0,0,2,2,0,0,0,0, ,None, ,No Resources,0,Commercial & Residential,Hotel/Villa/Residential
+192,Padukka & Hanwella,Telephone, , ,21,0.22,600,310,Both,2,0,Flat,5,0,1,0,0,2,0,1,1,Hanwella Bus Station,None, ,No Resources,0,Residential,Residential Land
+193,Padukka & Hanwella,Telephone, ,3,47,0.0638297,1000,1000,Both,2,0,Non-Flat,1,0,0,0,0,0,0,0,1,Hanwella Bus Station,None, ,No Resources,0,Commercial & Residential,Residential Land/Cultivate Crops
+194,Padukka & Hanwella,Telephone, , ,140,0.17,750,750,Electricity,1,0,Flat,5,0,1,0,1,1,0,1,1,Hanwella Police Station,None, ,No Resources,0,Residential,Residential land
+195,Padukka & Hanwella,Telephone, ,1.1,10.8,0.101851,1000,3500,Both,2,0,Flat,6,0,0,2,2,0,0,0,2,Morakele sub Railway/Gamma Halt,None, ,No Resources,0,Residential,Residential Land
+196,Padukka & Hanwella,Telephone, ,6.5,144.5,0.044298,900,1500,None,0,0,Non-Flat,1,0,0,1,0,0,0,0,0, ,None,Forest Land,No Resources,0,Commercial & Residential,Hotel/Rubber Plantation etc.
+197,Padukka & Hanwella,Telephone, , ,9,0.6,450,10,Electricity,1,0,Flat,5,0,1,1,1,0,0,1,1,Kosgama Railway Station,Plants,"Coconut, King Coconut,Jackfruit",No Resources,0,Commercial & Residential,Residence/Shop/Cultivation
+198,Padukka & Hanwella,Telephone, ,24,136,0.1764,650,650,Electricity,1,0,Flat,5,0,1,2,0,0,0,0,2,Kosgama Police & Railway Stations,Plants,Coconut Plants,No Resources,0,Commercial & Residential,Residence/Coconuit Plantation
+199,Padukka & Hanwella,Telephone, , ,15,0.015,650,1300,Electricity,1,2,Non-Flat,4,0,1,2,0,0,0,1,0, ,None, ,No Resources,0,Residential,Residential Land
+200,Padukka & Hanwella,Telephone, , ,40,0.055,850,310,Both,2,0,Flat,5,0,1,1,0,0,0,0,3,"Hingurala Railway, Kosgama Railway/ Police Stations",None, ,No Resources,0,Residential,Residential Land

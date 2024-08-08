@@ -8,6 +8,7 @@ library(usethis)
 
 #usethis::use_data(DATASET, overwrite = TRUE)
 
-library(readxl)
-compareMeans = read_excel("data-raw/compareMeans.xlsx")
-use_data(compareMeans, overwrite = TRUE)
+rentData = read.csv("data-raw/rentData.csv")
+use_data(rentData, overwrite = TRUE)
+
+usethis::use_r("rentData")
